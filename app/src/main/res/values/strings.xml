@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bussiness</string>
+    <string name="bakery">KHURANA  BAKERY</string>
+    <string name="phone">+91888555123</string>
+    <string name="loc">SCO 22, Sector 15\nChandigarh</string>
+    <string name="time">10AM - 10PM</string>
+    <string name="web">www.khuranabakery.com</string>
+</resources>
